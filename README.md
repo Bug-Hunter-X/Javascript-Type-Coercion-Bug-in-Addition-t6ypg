@@ -1,0 +1,2 @@
+# Javascript Type Coercion Bug
+This repository demonstrates a common Javascript bug related to type coercion during addition operations.  The `bug.js` file contains code that unintentionally concatenates strings instead of adding numbers due to implicit type conversion.  The `bugSolution.js` file provides a corrected version with explicit type checking to prevent this issue.
